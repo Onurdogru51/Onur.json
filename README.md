@@ -1,2 +1,2 @@
 # Onur.json
-bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr
+[Onur_dogru_51bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr]
